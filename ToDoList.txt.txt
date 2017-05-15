@@ -10,3 +10,8 @@
         Paramétrage
             PhpMyadmin (nouvel utilisateur)
             GLPI (DNS)
+        Installation
+            Apache2 v?
+            MySQL v?
+            PHPMyAdmin v?
+            GLPI v?
