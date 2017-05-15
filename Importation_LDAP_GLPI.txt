@@ -1,0 +1,5 @@
+# Fichier de TEST
+	https://github.com/glpi-project/glpi/blob/master/tools/ldap-glpi.ldif
+
+# Tuto EXPORT FROM AD
+	https://technet.microsoft.com/fr-fr/library/bb727091.aspx
