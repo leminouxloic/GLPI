@@ -4,4 +4,5 @@
 # Tuto EXPORT FROM AD
 	https://technet.microsoft.com/fr-fr/library/bb727091.aspx
 
-# Pull Test
+# Tuto Lier LDAP et GLPI
+	http://www.supinfo.com/articles/single/2318-installation-parametrage-glpi-liaison-ldap
