@@ -1,0 +1,12 @@
+# ToDoList
+
+# Edit 15/05/2017 11h30
+    Check
+        Installation
+            Chromium (local + winServ)
+            Atom (local + winServ)
+            GitHub (local)
+    ToDo
+        Paramétrage
+            PhpMyadmin (nouvel utilisateur)
+            GLPI (DNS)
