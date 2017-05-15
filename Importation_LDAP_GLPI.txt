@@ -6,3 +6,6 @@
 
 # Tuto Lier LDAP et GLPI
 	http://www.supinfo.com/articles/single/2318-installation-parametrage-glpi-liaison-ldap
+
+# Authentification LDAP
+	http://glpi-project.org/DOC/FR/glpi/config_auth_ldap.html
