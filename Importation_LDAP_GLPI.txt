@@ -15,3 +15,6 @@
 
 # Tuto installation GLPI sur debian
 	https://blogauvraymarvin.wordpress.com/2016/01/14/mise-en-place-de-glpiocs-et-customisation-du-css/
+
+# Install, paramétrage et AD
+	https://www.frbmg.com/mise-a-jour-glpi/
