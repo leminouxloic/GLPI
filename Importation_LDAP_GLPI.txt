@@ -9,3 +9,6 @@
 
 # Authentification LDAP
 	http://glpi-project.org/DOC/FR/glpi/config_auth_ldap.html
+
+# Documentation BaseDN (distinguished name)
+	https://support.symantec.com/en_US/article.HOWTO41996.html
