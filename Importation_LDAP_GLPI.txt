@@ -12,3 +12,6 @@
 
 # Documentation BaseDN (distinguished name)
 	https://support.symantec.com/en_US/article.HOWTO41996.html
+
+# Tuto installation GLPI sur debian
+	https://blogauvraymarvin.wordpress.com/2016/01/14/mise-en-place-de-glpiocs-et-customisation-du-css/
