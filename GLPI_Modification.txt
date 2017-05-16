@@ -1,0 +1,2 @@
+// Get the client ip address
+$ipaddress = $_SERVER['REMOTE_ADDR']
