@@ -19,3 +19,8 @@
         Connexion à l'annuaire LDAP
 
         Automatisation IPv4 client -> Ticket (php)
+
+        Installation OCS inventory (server + pluginGLPI)
+            https://github.com/pluginsGLPI/ocsinventoryng
+            https://www.ocsinventory-ng.org/fr/
+
