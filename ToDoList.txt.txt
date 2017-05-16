@@ -6,12 +6,16 @@
             Chromium (local + winServ)
             Atom (local + winServ)
             GitHub (local)
-    ToDo
+
         Paramétrage
-            PhpMyadmin (nouvel utilisateur)
-            GLPI (DNS)
+            PhpMyadmin (nouvel utilisateur + newBDD)
+            GLPI (v9.1.1)
+
         Installation
-            Apache2 v?
-            MySQL v?
-            PHPMyAdmin v?
-            GLPI v?
+            WAMP (v3.0.6)
+    Todo
+        Migration de la BDD
+
+        Connexion à l'annuaire LDAP
+
+        Automatisation IPv4 client -> Ticket (php)
