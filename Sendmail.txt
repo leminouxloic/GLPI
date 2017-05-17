@@ -1,19 +1,41 @@
 #------------------------------------------------------------
-# Envoie d'un mail en mligne de commande via PHP
+# Script PHP
 #------------------------------------------------------------
 
-<?php
+	<?php
 
-	if (isset($_POST['message'])) {
+		if (isset($_POST['message'])) {
 
-		#Récupération des variables
-	
-		$message = $_POST['message'];
-		$objet = $_POST['objet'];
-		$mail = $_POST['email'];
+			#Récupération des variables
+		
+			$message = $_POST['message'];
+			$objet = $_POST['objet'];
+			$mail = $_POST['email'];
 
-		shell_exec('echo "'.$message.'\n\nObjet : '.$objet.'\n\nAdresse mail : '.$mail.'" | mail -s "'.'Web Contact'.'" -t destinataire@mail.domaine -a From:emetteur@mail.domaine');
+			shell_exec('echo "'.$message.'\n\nObjet : '.$objet.'\n\nAdresse mail : '.$mail.'" | mail -s "'.'Web Contact'.'" -t destinataire@mail.domaine -a From:emetteur@mail.domaine');
 
-	}
+		}
 
-?>
+	?>
+
+#------------------------------------------------------------
+# /etc/ssmtp/ssmtp.conf
+#------------------------------------------------------------
+
+	##########
+	#  Todo  #
+	##########
+
+#------------------------------------------------------------
+# /etc/ssmtp/revaliases
+#------------------------------------------------------------
+
+	##########
+	#  Todo  #
+	##########
+
+#------------------------------------------------------------
+# /etc/php/7.0/apache2
+#------------------------------------------------------------
+
+	sendmail_path = /usr/sbin/ssmtp -t
