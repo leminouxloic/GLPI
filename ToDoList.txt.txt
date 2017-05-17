@@ -27,4 +27,15 @@
         Fixer l'inventaire automatique (FI)
             Script + planificateur
 
+# Debriefing du 17/05/2017 
+    
+    Todo
+        1 -> Envoie de mail via l'intranet (expérience utilisateur)
+        2 -> Automatisation de la récupération de l'adresse IP via l'intranet (expérience utilisateur)
+                Attention : Nombreux utilisateurs connectés via citrix, dificultées de récupérer l'adresse IPv4
+        3 -> Update de GLPI v0.72.3 (2008) vers la version 9.1.3(28/04/2017)
+        4 -> Modification des pages intranet et dsih (formulaire.php & traitement.php)
+        5 -> Installation de FormCreator
+        6 -> Test Fusion Inventory server & client
+
 
