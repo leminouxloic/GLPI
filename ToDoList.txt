@@ -39,3 +39,28 @@
         6 -> Test Fusion Inventory server & client
 
 
+	Done
+		Ubuntu 16.04
+			Apache2
+			LAMP
+			Samba
+			PHPMyAdmin
+
+		GLPI 9.1
+			Récupération de l'ancienne base
+			Liaison LDAP
+
+	Todo
+		Website
+			Demande de ticket
+			Demande de compte
+			Pages contact et urgence
+
+		MySQL
+			Preparation des requêtes
+
+
+
+
+
+
