@@ -68,6 +68,7 @@
         Chartre graphique de l'interface GLPI
         Page mail avec formulaire et installation d'un server sendmail
         Paramétrage du gabarit des tickets
+        Récupération du site depuis l'URL -> lieu dans GLPI
 
 
 
