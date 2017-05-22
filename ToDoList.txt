@@ -41,7 +41,7 @@
 # Point après la première semaine | 19/05/2017
 
 	Done
-    
+
 		Ubuntu 16.04
 			Apache2
 			LAMP
@@ -56,15 +56,19 @@
 			Demande de ticket
 			Demande de compte
 			Pages contact et urgence
+            Gestion des caractères spéciaux (utf8_decode() | addslashes() | str_replace())
 
 		MySQL
 			Preparation des requêtes
+
+
 
     Todo
 
         Chartre graphique de l'interface GLPI
         Page mail avec formulaire et installation d'un server sendmail
         Paramétrage du gabarit des tickets
+
 
 
 
