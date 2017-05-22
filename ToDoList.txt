@@ -41,6 +41,7 @@
 # Point après la première semaine | 19/05/2017
 
 	Done
+    
 		Ubuntu 16.04
 			Apache2
 			LAMP
@@ -51,7 +52,6 @@
 			Récupération de l'ancienne base
 			Liaison LDAP
 
-	Todo
 		Website
 			Demande de ticket
 			Demande de compte
@@ -59,6 +59,12 @@
 
 		MySQL
 			Preparation des requêtes
+
+    Todo
+
+        Chartre graphique de l'interface GLPI
+        Page mail avec formulaire et installation d'un server sendmail
+        Paramétrage du gabarit des tickets
 
 
 
