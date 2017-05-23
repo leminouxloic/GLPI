@@ -71,6 +71,16 @@
         Récupération du site depuis l'URL -> lieu dans GLPI
 
 
+# Debriefing 23/05/2017
+    
+    Todo
+        Pas d'IP obligatoire (sauf incident app)
+        Service : Text area
+        Site :  Récupérer depuis l'url
+        Tel & ip (vérification char)
+        Email : text area (pas obligatoire)
+
+
 
 
 
