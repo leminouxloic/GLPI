@@ -61,19 +61,21 @@
 		MySQL
 			Preparation des requêtes
 
-
-
-    Todo
-
-        Chartre graphique de l'interface GLPI
-        Page mail avec formulaire et installation d'un server sendmail
-        Paramétrage du gabarit des tickets
-        Récupération du site depuis l'URL -> lieu dans GLPI
+        
+        
+        
 
 
 # Debriefing 23/05/2017
     
     Todo
+
+        Chartre graphique de l'interface GLPI
+        Page mail avec formulaire et installation d'un server sendmail
+        
+    Done
+
+        Paramétrage du gabarit des tickets
         Pas d'IP obligatoire (sauf incident app)
         Service : Text area
         Site :  Récupérer depuis l'url
