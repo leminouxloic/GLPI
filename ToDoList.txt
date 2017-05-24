@@ -82,6 +82,25 @@
         Tel & ip (vérification char)
         Email : text area (pas obligatoire)
 
+# Todo du 24 mai 
+    
+    Installation et paramétrage sendmail (ssmtp)
+    Inclure le script pour générer un mail à la création d'un ticket
+
+# Debriefing 24/05/2017
+    
+    Todo
+
+        Erreur de connection au server smtp (sendmail)
+        Diagrammes & histogramme des statistiques
+
+    Done
+
+        Gabarit ticket
+        Pofinage formulaire intranet
+        Bandeau d'alerte
+
+
 
 
 
