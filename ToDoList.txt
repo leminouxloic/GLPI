@@ -100,6 +100,29 @@
         Pofinage formulaire intranet
         Bandeau d'alerte
 
+# Debriefing 02/06/2017
+    
+    Todo
+
+        Erreur sql lors de l'intallation de fusion inventory for glpi
+        Mail de cloture d'un ticket
+
+    Done
+
+        Installation des plugins
+
+            GLPI Modifications
+            Notiication de Navigateur
+            Tableau de bord
+            Show loading
+            Adresage IP
+
+        Paramétrage de sendmail
+
+            Mail de confirmation lors de l'ouverture d'un ticket
+
+
+
 
 
 
