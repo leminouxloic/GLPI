@@ -23,7 +23,7 @@ Se rendre sur son navigateur à l'adresse [localhost:4200](127.0.0.1:4200)
 L'architecture de l'application Angular MyMim repose sur deux pilliers
 
 Les pages | Les components
-:- | -:
+- | -
 C'est une vue, une page affiche un ou plusieurs components, une route permet d'y accéder | C'est un module défini qui possède une fonction précise, qui n'est pas intégré à la table de routage
 
 
