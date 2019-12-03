@@ -1,5 +1,20 @@
-# Titre
-## Titre 2
+# MyMim
+
+Site de supervision ds environnements hors-production
+
+## Installation
+
+Utiliser le manager de paquets [NPM](https://www.npmjs.com/) pour installer MyMim
+
+```bash
+npm install
+```
+## Utilisation
+
+
+
+
+
 Ma phrase simple *Exemple*
 **doublestar**
 _foo_
@@ -20,3 +35,4 @@ var a = 10;
 
 var f=function() {}
 ```
+
