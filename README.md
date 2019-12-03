@@ -28,10 +28,10 @@ C'est une vue, une page affiche un ou plusieurs components, une route permet d'y
 
 Par exemple la page **environnement** comporte les composants :
 
-1. barre-navigation
-2. totem-principal
-3. actualite-bandeau
-4. tuile-environnement
+* barre-navigation
+* totem-principal
+* actualite-bandeau
+* tuile-environnement
 
 
 
