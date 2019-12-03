@@ -26,14 +26,14 @@ Les pages | Les components
 :- | -:
 C'est une vue, une page affiche un ou plusieurs components, une route permet d'y accéder | C'est un module défini qui possède une fonction précise, qui n'est pas intégré à la table de routage
 
-Par exemple la page **environnement** comporte les composants :
+Par exemple la page **environnement** comporte les composants ci-dessous
 
 * barre-navigation
 * totem-principal
 * actualite-bandeau
 * tuile-environnement
 
-
+Le composant `tuile environnement` est lui même composé du composant `menu-contextuel`
 
 Ma phrase simple *Exemple*
 **doublestar**
