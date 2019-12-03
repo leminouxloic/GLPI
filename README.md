@@ -54,7 +54,7 @@ Ensuite créez un observable
   }
 ```
 
-## Compatibilité Internet Explorer
+## Compatibilité  IE
 
 Il est possible de rendre l'application compatible avec internet explorer
 
@@ -73,7 +73,7 @@ Il est possible de rendre l'application compatible avec internet explorer
 
 ## Fait par
 
-@leminouxloic :shipit:
+Loïc Le Minoux :shipit:
 
 
 Ma phrase simple *Exemple*
