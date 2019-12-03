@@ -67,6 +67,20 @@ Le fichier `refresh.service.ts` permet à un composant de demander un rafraichis
 
 > Il est préférable de procéder à du lazy loading
 
+L'utilisation d'un **Subject** est nécessaire
+
+```javascript
+let rafraichissement = new Subject<string>();
+
+// On souscrit
+rafraichissement.subscribe((data) => {
+  console.log("Rafraichissement >>>>> "+ data);
+});
+
+// On émet
+rafraichissement.next("Page Sonde");
+```
+
 ## Compatibilité  IE
 
 Il est possible de rendre l'application compatible avec internet explorer
