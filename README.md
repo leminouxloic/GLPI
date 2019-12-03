@@ -35,10 +35,12 @@ Par exemple la page **environnement** comporte les composants ci-dessous
 
 Le composant `tuile-environnement` est lui même composé du composant `menu-contextuel`
 
-1. page-sonde
-   1. tuile-sonde
-       1. menu-contextuel
-           1. historique-sonde
+> Ci-dessous un example d'arborescence des _components_
+
+1. _page-sonde_
+ 2. _tuile-sonde_
+  3. _menu-contextuel_
+   4. _historique-sonde_
 
 ## Récupération des données
 
@@ -85,26 +87,3 @@ Pour en savoir plus, voir le site [Angular](https://angular.io/guide/browser-sup
 ## Fait par
 
 Loïc Le Minoux :shipit:
-
-
-Ma phrase simple *Exemple*
-**doublestar**
-_foo_
-~~toto~~
-[lien](http://wwwgoogle.com)
-
-
-
-1. Un
-2. Deux
-
-> citation
-
-et ça fait `boom` hahaha
-
-```javascript
-var a = 10;
-
-var f=function() {}
-```
-
