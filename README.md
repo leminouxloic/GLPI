@@ -35,6 +35,11 @@ Par exemple la page **environnement** comporte les composants ci-dessous
 
 Le composant `tuile-environnement` est lui même composé du composant `menu-contextuel`
 
+1. page-sonde
+   1. tuile-sonde
+       1. menu-contextuel
+           1. historique-sonde
+
 ## Récupération des données
 
 L'utilisation du client http est centralisé dans les fichiers du dossier `services`
@@ -54,13 +59,19 @@ Ensuite créez un observable
   }
 ```
 
+## Rafrachissement forcé
+
+Le fichier `refresh.service.ts` permet à un composant de demander un rafraichissement générale des données
+
+> Il est préférable de procéder à du lazy loading
+
 ## Compatibilité  IE
 
 Il est possible de rendre l'application compatible avec internet explorer
 
 > Pour celà il vous faudra décommenter certaines lignes dans le fichier **polyfill.ts**
 
-
+Pour en savoir plus, voir le site [Angular](https://angular.io/guide/browser-support)
 
 ## Construit avec
 
