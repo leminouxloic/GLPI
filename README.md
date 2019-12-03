@@ -45,6 +45,35 @@ N'oubliez pas d'injecter le client http dans le constructeur !
 constructor(private http: HttpClient) { }
 ```
 
+Ensuite créez un observable
+
+```javascript
+ public getArticles(): Observable<Any> {
+    return this.http.get('http://localhost:3000/cartographie/')
+    );
+  }
+```
+
+## Compatibilité Internet Explorer
+
+Il est possible de rendre l'application compatible avec internet explorer
+
+> Pour celà il vous faudra décommenter certaines lignes dans le fichier **polyfill.ts**
+
+
+
+## Construit avec
+
+* [Angular](https://angular.io)
+* [Bootstrap](https://getbootstrap.com/)
+* [Angular Material](https://material.angular.io/)
+* [Chart JS](https://www.chartjs.org/)
+* [RxJS](https://rxjs-dev.firebaseapp.com/)
+
+
+## Fait par
+
+@leminouxloic :shipit:
 
 
 Ma phrase simple *Exemple*
